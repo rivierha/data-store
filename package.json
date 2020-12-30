@@ -1,0 +1,23 @@
+{
+  "name": "data-store",
+  "version": "1.0.0",
+  "description": "A file based key-value data store.",
+  "main": "data-store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivierha/data-store.git"
+  },
+  "keywords": [
+    "data-store",
+    "key-value"
+  ],
+  "author": "Richa Gaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivierha/data-store/issues"
+  },
+  "homepage": "https://github.com/rivierha/data-store#readme"
+}
