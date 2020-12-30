@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/rivierha/data-store/issues"
   },
-  "homepage": "https://github.com/rivierha/data-store#readme"
+  "homepage": "https://github.com/rivierha/data-store#readme",
+  "dependencies": {
+    "object-sizeof": "^1.6.1"
+  }
 }
