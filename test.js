@@ -1,5 +1,5 @@
 // import DataStore class from app.js
-var dataStore = require("./app");
+var dataStore = require("./data-store");
 
 // instantiate dataStore class to work with data-store
 var ds = new dataStore();
